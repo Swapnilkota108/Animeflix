@@ -89,7 +89,7 @@ background-color: white;
 #jk a{
     height: 3rem;
     width: 10rem;
-    background-color: black;
+    
     color:#faee1c;
     border-radius:8px ;
 }
@@ -106,7 +106,7 @@ background-color: white;
    left: 0;
    right: 0;
    bottom: 0;
-   opacity: 0.3;
+   opacity: 0.9;
    border-radius: 10px;
    
  
